@@ -1,6 +1,7 @@
 # Python Projects
 
 
--***Hangman Game***
--***Madlibs***
--***Number Guessing Game***
+- **Hangman Game**
+- **Madlibs**
+- **Number Guessing Game**
+
